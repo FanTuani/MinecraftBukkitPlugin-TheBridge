@@ -1,0 +1,16 @@
+name: TheBridge
+version: 1.0
+main: com.ricequakes.plugin.thebridge.TheBridge
+commands:
+  sh:
+    description: set home
+    usage: /sh
+  start:
+    description: Start the game
+    usage: /start
+  setvoid:
+    description: Set void y
+    usage: /setvoid
+  gamestop:
+    description: Stop the game
+    usage: /gamestop
